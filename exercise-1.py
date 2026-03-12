@@ -6,3 +6,9 @@
 #       what the function returns, not what it prints.
 # ============================================================================
 
+
+def hello():
+    return "Hello!"
+
+
+print(hello())
